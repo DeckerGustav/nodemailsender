@@ -29,4 +29,4 @@ const sendMail = (to, subject, message) => {
 
 };
 
-sendMail('Seu email aqui', 'Assunto do Email', 'Corpo do Email');
+sendMail('Email Receiver', 'Email title', 'Email subject');
